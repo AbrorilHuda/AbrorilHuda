@@ -17,7 +17,7 @@ jika ada saran kirim pesan
 
 <details>
 <p align="center">
-  <a href="https://github.com/DemtimCod">
+  <a href="https://https://github.com/DemtimCod?tab=repositories">
   <img src="https://img.shields.io/badge/LeetCode-blue?style=flat-square&logo=LeetCode" alt="LeetCode">
     </a>
 </p>

@@ -9,6 +9,7 @@ jika ada saran kirim pesan
 
 ### Languages Or OS
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/DemtimCod)
+[![golang](https://img.shields.io/badge/python-black?style=for-the-badge&logo=golang)](https://github.com/DemtimCod)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/DemtimCod)
 [![php](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://github.com/DemtimCod)
 [![kali linux](https://img.shields.io/badge/kalilinux-black?style=for-the-badge&logo=kalilinux)](https://github.com/DemtimCod)

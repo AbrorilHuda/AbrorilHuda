@@ -34,7 +34,7 @@ jika ada saran kirim pesan
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DemtimCod&theme=transparent" />
   </a>
   <a href="https://github.com/DemtimCod">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DemtimCod&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20sc" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DemtimCod&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script" />
   </a>
 </p>
 <p align="center">

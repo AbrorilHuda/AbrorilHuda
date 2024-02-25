@@ -44,7 +44,6 @@ jika ada saran kirim pesan
 
 ### follow social media demtimcod
 
-[![Tik Tok](https://img.shields.io/badge/tiktok-black?style=for-the-badge&logo=tiktok)](https://tiktok.com/@ceo_demtimcod)
-[![instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=Instagram)](https://www.instagram.com/ceo_demtimcod/)
-[![twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=Twitter)](https://twitter.com/CEO_demtimcod?t=osCeVR-JeR0dTQOpgIjvow&s=09)
-[![Discord](https://img.shields.io/badge/Discord_comunity-black?style=for-the-badge&logo=Discord)](https://discord.gg/ypHUxJth)
+[![instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/abror_dc/)
+[![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/CEO_demtimcod?t=osCeVR-JeR0dTQOpgIjvow&s=09)
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/ypHUxJth)

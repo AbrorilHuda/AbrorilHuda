@@ -4,7 +4,7 @@ mohon maaf atas ketidak nyamanan dalam membaca code yang saya buat karena saya m
 jika ada saran kirim pesan 
 **[Instagram](https://www.instagram.com/ceo_demtimcod/)**
 
-### salam titik koma
+### salam titik koma ;
 
 <p>biginer tools</p>
 

@@ -4,16 +4,14 @@ mohon maaf atas ketidak nyamanan dalam membaca code yang saya buat karena saya m
 jika ada saran kirim pesan 
 **[Instagram](https://www.instagram.com/ceo_demtimcod/)**
 
-#### salam titik koma
+### salam titik koma
 
+<p>biginer tools</p>
 
 ### Languages Or OS
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/DemtimCod)
-[![typescript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/DemtimCod)
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/DemtimCod)
-[![php](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://github.com/DemtimCod)
-[![kali linux](https://img.shields.io/badge/kalilinux-black?style=for-the-badge&logo=kalilinux)](https://github.com/DemtimCod)
-[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/DemtimCod)
+
+[![My Skills](https://skillicons.dev/icons?i=py,js,ts,php,html,css,bootstrap,tailwind,sass,md,git,github,bash,kali,linux,windows,mysql,mongodb,sqlite,firebase,prisma,nodejs,react,express,vscode,vite,vue,stackoverflow&perline=7)](https://skillicons.dev)
+
 
 <details>
 <p align="center">

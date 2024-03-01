@@ -1,12 +1,12 @@
-## author DemtimCod
+## author abrordc
 
 mohon maaf atas ketidak nyamanan dalam membaca code yang saya buat karena saya masih pemula belum terlalu hebat dalam mengatur code se menarik mungkin mohon maaf jika tidak sesuai dengan expestasi kalian
 jika ada saran kirim pesan 
-**[Instagram](https://www.instagram.com/ceo_demtimcod/)**
+**[Instagram](https://www.instagram.com/abror_dc)**
 
 ### salam titik koma ;
 
-<p>biginer tools</p>
+<i>beginner tools</i>
 
 ### Languages Or OS
 

@@ -1,4 +1,4 @@
-## author abrordc
+## author abror_dc
 
 mohon maaf atas ketidak nyamanan dalam membaca code yang saya buat karena saya masih pemula belum terlalu hebat dalam mengatur code se menarik mungkin mohon maaf jika tidak sesuai dengan expestasi kalian
 jika ada saran kirim pesan 

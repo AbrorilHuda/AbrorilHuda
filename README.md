@@ -23,21 +23,21 @@ jika ada saran kirim pesan
 
 <p align="center">
   <a href="https://github.com/abrordc">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DemtimCod&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abrordc&theme=transparent" />
   </a>
   <a href="https://github.com/abrordc">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DemtimCod&hide_border=true&card_width=338&theme=transparent" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abrordc&hide_border=true&card_width=338&theme=transparent" />
   </a>
   <a href="https://github.com/abrordc">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DemtimCod&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=abrordc&theme=transparent" />
   </a>
   <a href="https://github.com/abrordc">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DemtimCod&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrordc&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/abrordc">
-    <img src="https://komarev.com/ghpvc/?username=DemtimCod&color=blue&style=flat)" />
+    <img src="https://komarev.com/ghpvc/?username=abrordc&color=blue&style=flat)" />
   </a>
 </p>
 

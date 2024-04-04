@@ -42,7 +42,7 @@ jika ada saran kirim pesan
 </p>
 
 
-### follow social media demtimcod
+### follow social media abrordc
 
 [![instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/abror_dc/)
 [![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/CEO_demtimcod?t=osCeVR-JeR0dTQOpgIjvow&s=09)

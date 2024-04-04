@@ -4,9 +4,14 @@ mohon maaf atas ketidak nyamanan dalam membaca code yang saya buat karena saya m
 jika ada saran kirim pesan 
 **[Instagram](https://www.instagram.com/abror_dc)**
 
+<i>English Translation</i>
+
+please apologise for the inconvenience in reading the code that I made because I am still a beginner not too great at organising code as interesting as possible please apologise if it doesn't match your expectations if there are suggestions send an **[Instagram message](https://www.instagram.com/abror_dc)**
+
+
 ### salam titik koma ;
 
-<i>beginner tools</i>
+<i><b>beginner tools</b></i>
 
 ### Languages Or OS
 
@@ -46,4 +51,4 @@ jika ada saran kirim pesan
 
 [![instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/abror_dc/)
 [![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/CEO_demtimcod?t=osCeVR-JeR0dTQOpgIjvow&s=09)
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/ypHUxJth)
+[![Tiktok](https://skillicons.dev/icons?i=tiktok)]

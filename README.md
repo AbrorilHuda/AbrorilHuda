@@ -9,7 +9,7 @@
     💻 sipenting ngoding 
     📖 tetep ae yang penting ngoding
     🎮 Music • Games • Anime • Code
-    🐾 run there 🐤🐥<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="30" />
+    🐾 run there 🐤🐥<img src="https://raw.githubusercontent.com/abrordc/abrordc/refs/heads/main/assets/kyubey.gif" height="30" />
 </pre>
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)

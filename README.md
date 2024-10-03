@@ -1,17 +1,36 @@
-## welcome to github abrordc 👏
-
-### Languages Or OS
-
-[![My Skills](https://skillicons.dev/icons?i=py,js,ts,php,html,css,bootstrap,tailwind,sass,md,git,github,bash,kali,linux,windows,mysql,mongodb,sqlite,firebase,prisma,nodejs,react,express,vscode,vite,vue,stackoverflow&perline=7)](https://skillicons.dev)
-
-
-<details>
 <p align="center">
-  <a href="https://github.com/abrordc?tab=repositories">
-  <img src="https://img.shields.io/badge/LeetCode-blue?style=flat-square&logo=LeetCode" alt="LeetCode">
-    </a>
+  <img src="https://media.tenor.com/9cGXz2mKZNgAAAAC/sharingan.gif" />
 </p>
 
+# Hello there 👋
+
+<pre>
+    📚 Universitas Madura
+    💻 sipenting ngoding 
+    📖 tetep ae yang penting ngoding
+    🎮 Music • Games • Anime • Code
+    🐾 run there 🐤🐥<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="30" />
+</pre>
+
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+
+## Skills
+
+- 👨‍💻 TypeScript, JavaScript, PHP, etc...
+- ⚙️ React
+- 👁️ CSS
+- 💽 MySQL, Mongo
+
+* a lot more :D
+
+**I'm an Early 🐤**
+
+```text
+🌞 Morning                4 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.56 %
+🌆 Daytime                9 commits        ██████████░░░░░░░░░░░░░░░   40.93 %
+🌃 Evening                8 commits        ███████░░░░░░░░░░░░░░░░░░   29.42 %
+🌙 Night                  10jt commits     █████████████████████████   100.00 %
+```
 
 <p align="center">
   <a href="https://github.com/abrordc">

@@ -33,21 +33,21 @@
 ```
 
 <p align="center">
-  <a href="https://github.com/abrordc">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abrordc&theme=transparent" />
+  <a href="https://github.com/AbrorilHuda">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbrorilHuda&theme=transparent" />
   </a>
-  <a href="https://github.com/abrordc">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abrordc&hide_border=true&card_width=338&theme=transparent" />
+  <a href="https://github.com/AbrorilHuda">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbrorilHuda&hide_border=true&card_width=338&theme=transparent" />
   </a>
-  <a href="https://github.com/abrordc">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=abrordc&theme=transparent" />
+  <a href="https://github.com/AbrorilHuda">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbrorilHuda&theme=transparent" />
   </a>
-  <a href="https://github.com/abrordc">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrordc&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script" />
+  <a href="https://github.com/AbrorilHuda">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbrorilHuda&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script" />
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/abrordc">
-    <img src="https://komarev.com/ghpvc/?username=abrordc&color=blue&style=flat)" />
+  <a href="https://github.com/AbrorilHuda">
+    <img src="https://komarev.com/ghpvc/?username=AbrorilHuda&color=blue&style=flat)" />
   </a>
 </p>

@@ -32,18 +32,9 @@
 🌙 Night                  10jt commits     █████████████████████████   100.00 %
 ```
 
-<p align="center">
-  <a href="https://github.com/AbrorilHuda">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbrorilHuda&theme=transparent" />
-  </a>
+<p align="center"> 
   <a href="https://github.com/AbrorilHuda">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbrorilHuda&hide_border=true&card_width=338&theme=transparent" />
-  </a>
-  <a href="https://github.com/AbrorilHuda">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbrorilHuda&theme=transparent" />
-  </a>
-  <a href="https://github.com/AbrorilHuda">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbrorilHuda&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script" />
   </a>
 </p>
 <p align="center">
